@@ -1,0 +1,24 @@
+{
+    "data": {
+        "lots": [
+            {
+                "id": "SSL1",
+                "name": "South Structure, Level 1",
+                "perRow": 10,
+                "rowCount": 5
+            },
+            {
+                "id": "SSL2",
+                "name": "South Structure, Level 2",
+                "perRow": 10,
+                "rowCount": 5
+            },
+            {
+                "id": "SSL3",
+                "name": "South Structure, Level 3",
+                "perRow": 10,
+                "rowCount": 5
+            }
+        ]
+    }
+}
